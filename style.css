@@ -1,0 +1,39 @@
+heading h1, footer h2{
+    color:blue;
+    text-align: center;
+}
+main p{
+    text-align: center;
+}
+
+main img{
+    border-radius: 150px;
+}
+
+.tigr-class{
+    text-align: justify;
+    color: white;
+    padding:15px;
+}
+
+footer p{
+    text-align: center;
+}
+
+footer a{
+    border: 3px solid blue;
+    padding: 15px;
+    background-color: white;
+    border-radius: 20px;
+    text-decoration: None;
+    color: blue;
+}
+
+footer a:hover{
+    background-color: darkred;
+    color: white;
+}
+
+body{
+    background-image: url("https://img.freepik.com/free-vector/space-background-with-stars-vector-illustration_97886-319.jpg");
+}
